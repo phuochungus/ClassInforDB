@@ -88,7 +88,6 @@ namespace CLop
             {
                 Console.WriteLine(e.Message);
                 throw;
-                //
             }
         }
         public void printClassInfor()
